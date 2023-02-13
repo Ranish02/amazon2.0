@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#usernamedropmenu {
+  display: none;
+}
+#usernamedropmenu:hover {
+  display: block;
+  /* background-color: aqua; */
+}
+#usernamebtn:hover + #usernamedropmenu {
+  display: block;
+}
