@@ -13,6 +13,7 @@ module.exports = {
           DEFAULT: "#131921",
         },
         amazon_yellow: "#f3a847",
+        primary : "#6528F7"
       },
     },
   },

@@ -10,7 +10,7 @@ export default function RootLayout({
   return (
     <html>
       <head>
-        <title>Amazon 2.0</title>
+        <title>Sabbai</title>
       </head>
       <body>
         <SessionProvider>
