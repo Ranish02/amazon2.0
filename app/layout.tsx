@@ -14,6 +14,7 @@ export default function RootLayout({
       <head>
         <title>Sabbai</title>
         <meta name="description" content="Shop Smarter at Sabbai: Your Gateway to Quality Products in Nepal. Developed by Ranish Kunwar, Software Engineer" />
+        <meta property="og:title" content="Sabbai Shop - Ecommerce"/>
         <link rel="icon" href="/favicon.ico" />
       </head>
       <body>
